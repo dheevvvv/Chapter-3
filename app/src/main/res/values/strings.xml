@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Chapter3</string>
+    <string name="next">Next</string>
+    <string name="welcome_to_test_activity">Welcome to test Activity</string>
+    <string name="ini_halaman_home">ini halaman home</string>
+    <string name="ini_halaman_login">ini halaman login</string>
+    <string name="ini_halaman_register">ini halaman register</string>
+    <string name="ini_activity_2">ini activity 2</string>
+    <string name="ini_activity_1">ini activity 1</string>
+</resources>
