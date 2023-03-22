@@ -28,4 +28,44 @@
         android:text="@string/next"
         />
 
+    <Button
+        android:id="@+id/btn_action_send"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:layout_constraintTop_toBottomOf="@+id/btn2_next"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        android:text="@string/send"
+        />
+
+    <Button
+        android:id="@+id/btn_bundle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:layout_constraintTop_toBottomOf="@+id/btn_action_send"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        android:text="@string/bundle"
+        />
+
+    <Button
+        android:id="@+id/btn_serializable"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:layout_constraintTop_toBottomOf="@+id/btn_bundle"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        android:text="@string/serializable"
+        />
+
+    <Button
+        android:id="@+id/btn_parcelable"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:layout_constraintTop_toBottomOf="@+id/btn_serializable"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        android:text="@string/parcelable"
+        />
+
 </androidx.constraintlayout.widget.ConstraintLayout>

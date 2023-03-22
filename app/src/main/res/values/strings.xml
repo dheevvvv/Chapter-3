@@ -7,4 +7,19 @@
     <string name="ini_halaman_register">ini halaman register</string>
     <string name="ini_activity_2">ini activity 2</string>
     <string name="ini_activity_1">ini activity 1</string>
+    <string name="txt_register">txt_register</string>
+    <string name="txt_login">txt_login</string>
+    <string name="username">username</string>
+    <string name="password">password</string>
+    <string name="btn_login">btn_login</string>
+    <string name="signup_link">signup_link</string>
+    <string name="masukan_nama">masukan nama</string>
+    <string name="ulangi_password">ulangi password</string>
+    <string name="text_btn_register">text_btn_register</string>
+    <string name="register">register</string>
+    <string name="login">Login</string>
+    <string name="send">send</string>
+    <string name="bundle">bundle</string>
+    <string name="serializable">Serializable</string>
+    <string name="parcelable">parcelable</string>
 </resources>
